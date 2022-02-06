@@ -1,0 +1,90 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    color: green;
+    }
+  
+    .logo{
+        line-height: 14px;
+        background-color: gray;
+       display: inline-block;    
+    }
+    .header p{
+        line-height: 45px;
+        text-align: center;
+        font-size: 30px;
+        
+    }
+ 
+    .navbar{
+         text-align: center;
+         line-height: 5px; 
+         margin-top: 45px;
+    }
+    .navbar a{
+        margin-left: 25px;
+        text-decoration: none;
+        color: black;
+        font-size: 25px;
+    }
+    .navbar a:hover{
+        color: #f6214b;
+    }
+/* form css start from here */
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap');
+
+h1{
+    color: #24457b;
+    font-size: 2em;
+    text-decoration: underline;
+}
+.form{
+    margin-top: 20px;
+margin-left: 75px;
+
+}
+.form p{
+    color: #24457b;
+    font-family: Quicksand;
+font-size: 20px;
+font-weight: bold;
+font-style: normal;
+line-height: 1.6em;
+padding-top: 10px;
+padding-bottom: 8px;
+
+}
+#btn{
+    background-color: #3763b1;
+border-color: transparent;
+color: #ffffff;
+font-size: 20px;
+font-weight: normal;
+font-style: normal;
+line-height: 2em;
+padding: 0 50px;
+border-width: 1px;
+border-style: solid;
+border-radius: 30px;
+margin-top: 20px;
+}
+#input{
+    background-color: rgba(255,255,255,.46);
+border-color: #997127;
+color: #5a7db5;
+padding: 18px 18px;
+border-width: 1px !important;
+border-style: solid !important;
+border-radius: 3px !important;
+font-size: 15px;
+font-weight: normal;
+font-style: normal;
+/* line-height: 1.2em; */
+width: 300px;
+}
+.xyz{
+    background-color: #ebf6fc;
+}

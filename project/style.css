@@ -1,0 +1,89 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    color: green;
+    }
+  
+    .logo{
+        line-height: 14px;
+        background-color: gray;
+       display: inline-block;    
+    }
+    .header p{
+        line-height: 45px;
+        text-align: center;
+        font-size: 30px;
+        
+    }
+ 
+    .navb{
+         text-align: center;
+         line-height: 5px; 
+         margin-top: 45px;
+    }
+    .navb a{
+        margin-left: 25px;
+        text-decoration: none;
+        color: black;
+        font-size: 25px;
+    }
+    .navb a:hover{
+        color: #f6214b;
+    }
+    #nomi{
+        border: 2px solid black;
+        margin-top:25px;
+        background:url("header.png") no-repeat center center/cover;
+        height:500px;
+        
+           }
+           #nomi h1{
+       color:white;
+       text-align:center;
+       margin-top:25px;
+       
+           }
+           #nomi p{
+               text-align:center;
+               color:#777;
+               line-height:55px;
+           }
+           #butn1{
+               padding: 6px 20px;
+       border: 2px solid white;
+       background-color: brown;
+       color: white;
+       margin-top: 70px;
+       margin-left:640px;
+       font-size: 1.5rem;
+       border-radius: 5px;
+       cursor:pointer;
+       
+           }
+           #butn{
+               padding: 6px 20px;
+       border: 2px solid white;
+       background-color: brown;
+       color: white;
+       font-size: 1.5rem;
+       border-radius: 5px;
+       cursor:pointer;
+       
+           }
+          
+           .card-img-top{
+            
+               margin-left:55px; 
+           }
+           .text-center{
+               color:red;
+           }
+           .about{
+            background-color: #ecf0f1;
+           }
+           
+   
+ 
